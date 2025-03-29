@@ -53,7 +53,7 @@ function Hero() {
         <img src={linkdinIcon} alt ="Linkdin Icon" />
         </a>
       </span>
-      <p className={styles.discription}>With a passion for developing modern React Web apps for commercial businesses</p>
+      <p className={styles.discription}>With a strong foundation in AI, machine learning, and web development, Nishant Singh is passionate about building intelligent and scalable solutions.</p>
       <a href={CV} download>
         <button className="hover">
           Resume
